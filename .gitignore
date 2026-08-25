@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Streamlit secrets
+secrets.toml
+
+# Logs
+*.log
+
+# TLS certificates / private keys
+*.pem
+*.key
+*.crt
+*.csr
